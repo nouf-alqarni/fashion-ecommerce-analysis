@@ -23,17 +23,16 @@ Sales and customer behavior analysis for a fashion e-commerce store using Excel 
 
 ## Visuals
 
-## Visuals
+Main Power BI dashboard:
 
-Here is a screenshot from the main Power BI dashboard:
+![Sales Overview Dashboard](images/fashion-dashboard-overview.png)
 
-![Sales Overview Dashboard](fashion-dashboard-overview.png)
+Drill-down view for sales details:
 
-Zoomed view of one of the visuals:
+![Sales Drill-down](images/fashion-sales-drilldown.png)
 
-![Top Products View](images/fashion-top-products.png)
+May sales view (highest sales month in the dataset):
 
-Example from the Excel analysis:
+![May Sales](images/fashion-may-sales.png)
 
-![Excel Analysis](images/fashion-excel-analysis.png)
 
