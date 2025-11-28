@@ -23,14 +23,17 @@ Sales and customer behavior analysis for a fashion e-commerce store using Excel 
 
 ## Visuals
 
-Here are some screenshots from the Power BI dashboard:
+## Visuals
 
-![Sales Overview Dashboard](images/fashion-sales-overview.png)
+Here is a screenshot from the main Power BI dashboard:
 
-![Customer Analysis Dashboard](images/fashion-customer-analysis.png)
+![Sales Overview Dashboard](images/fashion-dashboard-overview.png)
 
-And some views from the Excel analysis:
+Zoomed view of one of the visuals:
 
-![Excel Pivot Tables](images/fashion-excel-pivots.png)
+![Top Products View](images/fashion-top-products.png)
 
+Example from the Excel analysis:
+
+![Excel Analysis](images/fashion-excel-analysis.png)
 
